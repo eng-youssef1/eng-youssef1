@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm eng:Youssef  </h1>
 
-<!--
-**eng-youssef1/eng-youssef1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Cybersecurity Enthusiast | CSE Student at Mansoura University  
+🔍 Learning Python, C++, and Java  
+🛡️ Passionate about Web Security & Ethical Hacking  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning:
+- Python (Basics + Automation)
+- C++ (Problem Solving)
+- Java (OOP Fundamentals)
+- Linux Basics
+- Networking (Preparing for CCNA)
+
+### 🎯 Future Goals:
+- Get into Penetration Testing
+- Join CTF competitions
+- Report real-world vulnerabilities (Bug Bounty)
+- Build a solid GitHub & LinkedIn portfolio
+
+### 📫 How to reach me:
+- 📧 Email: yousefsalahali@std.mans.edu.eg
+- 🔗 LinkedIn: [Coming Soon!]
+
+---
+
+> “Don’t wait until you’re great to start. Start to become great.” 💪
