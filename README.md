@@ -24,7 +24,7 @@
 
 ### 📫 How to reach me:
 - 📧 Email: yousefsalahali@std.mans.edu.eg
-- 🔗 LinkedIn: [Coming Soon!]
+- 🔗 LinkedIn: https://www.linkedin.com/in/youssef-salah-09aa2b360
 
 ---
 
