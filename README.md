@@ -16,6 +16,7 @@
 - Networking (Preparing for CCNA)
 
 ### 🎯 Future Goals:
+- **Become a SOC Analyst Tier 1** - Monitor and respond to security incidents
 - Get into Penetration Testing
 - Join CTF competitions
 - Report real-world vulnerabilities (Bug Bounty)
@@ -27,4 +28,4 @@
 
 ---
 
-> “Don’t wait until you’re great to start. Start to become great.” 💪
+> "Don't wait until you're great to start. Start to become great." 💪
